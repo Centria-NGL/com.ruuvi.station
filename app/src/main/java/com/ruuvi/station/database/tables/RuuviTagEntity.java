@@ -1,4 +1,4 @@
-package com.ruuvi.station.database.tables;
+git package com.ruuvi.station.database.tables;
 
 import androidx.annotation.Nullable;
 
